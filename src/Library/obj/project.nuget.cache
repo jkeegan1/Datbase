@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aw0GIg4/2bD/4ki81IAwkRhQRRJoPAeeWNLR/yDkqZR9bdSZpSnk1qDlYp3Mtu1Sp31SOFU+JrSZdGW/1LzqZA==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Fsharp-DBproject\\src\\Library\\Library.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jkeeg\\.nuget\\packages\\fsharp.core\\6.0.7\\fsharp.core.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

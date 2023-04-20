@@ -1,0 +1,4 @@
+C:\code\Fsharp-DBproject\src\Library\obj\Debug\net6.0\Library.fsproj.AssemblyReference.cache
+C:\code\Fsharp-DBproject\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\code\Fsharp-DBproject\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.fs
+C:\code\Fsharp-DBproject\src\Library\obj\Debug\net6.0\Library.fsproj.CoreCompileInputs.cache
